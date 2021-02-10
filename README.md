@@ -14,7 +14,7 @@
 ![Novy's github stats](https://github-readme-stats.vercel.app/api?username=Legolaszstudio&show_icons=true&theme=dracula)
 
 # Wakatime stats
-[![Novy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NovyLevi)](https://wakatime.com/@NovyLevi)
+[![Novy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NovyLevi&layout=compact)](https://wakatime.com/@NovyLevi)
 
 
 <!--
