@@ -1,6 +1,6 @@
 ### Hi there, I'm Legolaszstudio - aka NovyLevi 👋
 
-## I'm a 14 year old student
+## I'm a 15 year old student
 - 💼 I would like to be full stack
 - 🌱 I’m currently learning everything I can
 - ⚡ Quick facts: I also like DJing and Photography
