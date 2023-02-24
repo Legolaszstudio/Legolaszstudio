@@ -1,6 +1,6 @@
 ### Hi there, I'm Legolaszstudio - aka NovyLevi 👋
 
-## I'm a 16 year old student
+## I'm a 17 year old student
 - 💼 I would like to be a either a full stack developer or a DevOps/SecOps engineer
 - 🌱 I’m currently learning everything I can
 - ⚡ Quick facts: I also like DJing, Photography and Trains
